@@ -1,0 +1,42 @@
+body {
+    font-family: Franklin Gothic;
+}
+
+header p {
+    text-align: center;
+}
+
+header p img {
+    width: 450px;
+}
+
+nav {
+    text-align: center;
+}
+
+.headerlinks {
+    text-decoration: none;
+    background-color: navy;
+    color: white;
+    padding: 5px;
+    margin:10px;
+    border-radius: 9px;
+}
+
+h1 {
+    border-bottom: 1px solid goldenrod;
+}
+
+footer a {
+    margin: 15px;
+    color: #778899;
+    text-decoration: none;
+}
+
+footer img {
+    width: 25px;
+}
+
+p {
+    font-size: 20px;
+}
